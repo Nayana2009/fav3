@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background:  linear-gradient(to right,#61b7df,#bdf4f2,#e2bcfe);
+    background-repeat: no-repeat;
+}
+h1{
+ text-shadow: 2px 2px #F8BBD0;   
+    font-size: 25px;
+    font-family: monospace;
+}
+#bio{
+ padding: 20px  ;
+font-size:17 ;
+  text-align: center;  
+}
+img{
+ border:solid;
+    border-color: aliceblue;
+} 
+.menu{
+    list-style: none;
+    position: fixed;
+ 
+    z-index: 10;
+    top:10px;
+    right: 30px;}
+.link{
+   
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: black;
+   
+    font-family:monospace;
+    font-size: 15px;
+}
+.link:hover{
+    font-size: 20px;
+    background-color:aliceblue;
+}
+#Au{
+     background-color:azure;
+    
+
+}
+#fav{
+     background-color:lavenderblush;
+    
+
+}
